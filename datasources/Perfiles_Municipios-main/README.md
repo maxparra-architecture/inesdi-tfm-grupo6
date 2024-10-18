@@ -1,1 +1,0 @@
-Perfiles Municipios de Colombia es un tablero en Streamlit que permite seleccionar cualquier municipio de Colombia y descubrir información relevante como ubicación geográfica, características de su población, actividad productiva, ocupación, tejido empresarial total y tejido empresarial relacionado con exportaciones, inversión extranjera directa y turismo.
