@@ -1,0 +1,1123 @@
+Cod. Municipio|Departamento|Municipio|Subregión PDET|ZOMAC
+05001|Antioquia|Medellín||0
+05002|Antioquia|Abejorral||1
+05004|Antioquia|Abriaquí||1
+05021|Antioquia|Alejandría||1
+05030|Antioquia|Amagá||0
+05031|Antioquia|Amalfi|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05034|Antioquia|Andes||0
+05036|Antioquia|Angelópolis||0
+05038|Antioquia|Angostura||1
+05040|Antioquia|Anorí|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05042|Antioquia|Santafé de Antioquia||1
+05044|Antioquia|Anzá||0
+05045|Antioquia|Apartadó|URABÁ ANTIOQUEÑO|1
+05051|Antioquia|Arboletes||0
+05055|Antioquia|Argelia||1
+05059|Antioquia|Armenia||0
+05079|Antioquia|Barbosa||0
+05086|Antioquia|Belmira||0
+05088|Antioquia|Bello||0
+05091|Antioquia|Betania||0
+05093|Antioquia|Betulia||0
+05101|Antioquia|Ciudad Bolívar||0
+05107|Antioquia|Briceño|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05113|Antioquia|Buriticá||0
+05120|Antioquia|Cáceres|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05125|Antioquia|Caicedo||1
+05129|Antioquia|Caldas||0
+05134|Antioquia|Campamento||1
+05138|Antioquia|Cañasgordas||0
+05142|Antioquia|Caracolí||0
+05145|Antioquia|Caramanta||0
+05147|Antioquia|Carepa|URABÁ ANTIOQUEÑO|1
+05148|Antioquia|El Carmen de Viboral||0
+05150|Antioquia|Carolina||0
+05154|Antioquia|Caucasia|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05172|Antioquia|Chigorodó|URABÁ ANTIOQUEÑO|1
+05190|Antioquia|Cisneros||0
+05197|Antioquia|Cocorná||1
+05206|Antioquia|Concepción||1
+05209|Antioquia|Concordia||0
+05212|Antioquia|Copacabana||0
+05234|Antioquia|Dabeiba|URABÁ ANTIOQUEÑO|1
+05237|Antioquia|Donmatías||0
+05240|Antioquia|Ebéjico||0
+05250|Antioquia|El Bagre|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05264|Antioquia|Entrerríos||0
+05266|Antioquia|Envigado||0
+05282|Antioquia|Fredonia||0
+05284|Antioquia|Frontino||1
+05306|Antioquia|Giraldo||0
+05308|Antioquia|Girardota||0
+05310|Antioquia|Gómez Plata||0
+05313|Antioquia|Granada||1
+05315|Antioquia|Guadalupe||1
+05318|Antioquia|Guarne||0
+05321|Antioquia|Guatapé||0
+05347|Antioquia|Heliconia||0
+05353|Antioquia|Hispania||0
+05360|Antioquia|Itagüí||0
+05361|Antioquia|Ituango|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05364|Antioquia|Jardín||0
+05368|Antioquia|Jericó||0
+05376|Antioquia|La Ceja||0
+05380|Antioquia|La Estrella||0
+05390|Antioquia|La Pintada||0
+05400|Antioquia|La Unión||0
+05411|Antioquia|Liborina||0
+05425|Antioquia|Maceo||0
+05440|Antioquia|Marinilla||0
+05467|Antioquia|Montebello||1
+05475|Antioquia|Murindó|CHOCÓ|1
+05480|Antioquia|Mutatá|URABÁ ANTIOQUEÑO|1
+05483|Antioquia|Nariño||1
+05490|Antioquia|Necoclí|URABÁ ANTIOQUEÑO|1
+05495|Antioquia|Nechí|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05501|Antioquia|Olaya||0
+05541|Antioquia|Peñol||0
+05543|Antioquia|Peque||0
+05576|Antioquia|Pueblorrico||0
+05579|Antioquia|Puerto Berrío||1
+05585|Antioquia|Puerto Nare||0
+05591|Antioquia|Puerto Triunfo||0
+05604|Antioquia|Remedios|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05607|Antioquia|Retiro||0
+05615|Antioquia|Rionegro||0
+05628|Antioquia|Sabanalarga||0
+05631|Antioquia|Sabaneta||0
+05642|Antioquia|Salgar||1
+05647|Antioquia|San Andrés de Cuerquía||1
+05649|Antioquia|San Carlos||1
+05652|Antioquia|San Francisco||1
+05656|Antioquia|San Jerónimo||0
+05658|Antioquia|San José de La Montaña||0
+05659|Antioquia|San Juan de Urabá||0
+05660|Antioquia|San Luis||1
+05664|Antioquia|San Pedro de Los Milagros||0
+05665|Antioquia|San Pedro de Urabá|URABÁ ANTIOQUEÑO|1
+05667|Antioquia|San Rafael||1
+05670|Antioquia|San Roque||0
+05674|Antioquia|San Vicente||0
+05679|Antioquia|Santa Bárbara||0
+05686|Antioquia|Santa Rosa de Osos||0
+05690|Antioquia|Santo Domingo||1
+05697|Antioquia|El Santuario||0
+05736|Antioquia|Segovia|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05756|Antioquia|Sonsón||1
+05761|Antioquia|Sopetrán||0
+05789|Antioquia|Támesis||0
+05790|Antioquia|Tarazá|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05792|Antioquia|Tarso||0
+05809|Antioquia|Titiribí||0
+05819|Antioquia|Toledo||1
+05837|Antioquia|Turbo|URABÁ ANTIOQUEÑO|1
+05842|Antioquia|Uramita||1
+05847|Antioquia|Urrao||1
+05854|Antioquia|Valdivia|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+05856|Antioquia|Valparaíso||0
+05858|Antioquia|Vegachí||1
+05861|Antioquia|Venecia||0
+05873|Antioquia|Vigía del Fuerte|CHOCÓ|1
+05885|Antioquia|Yalí||1
+05887|Antioquia|Yarumal||1
+05890|Antioquia|Yolombó||1
+05893|Antioquia|Yondó|SUR DE BOLÍVAR|1
+05895|Antioquia|Zaragoza|BAJO CAUCA Y NORDESTE ANTIOQUEÑO|1
+08001|Atlántico|Barranquilla||0
+08078|Atlántico|Baranoa||0
+08137|Atlántico|Campo de La Cruz||0
+08141|Atlántico|Candelaria||0
+08296|Atlántico|Galapa||0
+08372|Atlántico|Juan de Acosta||0
+08421|Atlántico|Luruaco||0
+08433|Atlántico|Malambo||0
+08436|Atlántico|Manatí||0
+08520|Atlántico|Palmar de Varela||0
+08549|Atlántico|Piojó||0
+08558|Atlántico|Polonuevo||0
+08560|Atlántico|Ponedera||0
+08573|Atlántico|Puerto Colombia||0
+08606|Atlántico|Repelón||0
+08634|Atlántico|Sabanagrande||0
+08638|Atlántico|Sabanalarga||0
+08675|Atlántico|Santa Lucía||0
+08685|Atlántico|Santo Tomás||0
+08758|Atlántico|Soledad||0
+08770|Atlántico|Suan||0
+08832|Atlántico|Tubará||0
+08849|Atlántico|Usiacurí||0
+11001|Bogotá, D.C.|Bogotá, D.C.||0
+13001|Bolívar|Cartagena de Indias||0
+13006|Bolívar|Achí||0
+13030|Bolívar|Altos del Rosario||0
+13042|Bolívar|Arenal|SUR DE BOLÍVAR|1
+13052|Bolívar|Arjona||0
+13062|Bolívar|Arroyohondo||0
+13074|Bolívar|Barranco de Loba||0
+13140|Bolívar|Calamar||0
+13160|Bolívar|Cantagallo|SUR DE BOLÍVAR|1
+13188|Bolívar|Cicuco||0
+13212|Bolívar|Córdoba|MONTES DE MARÍA|1
+13222|Bolívar|Clemencia||0
+13244|Bolívar|El Carmen de Bolívar|MONTES DE MARÍA|1
+13248|Bolívar|El Guamo|MONTES DE MARÍA|1
+13268|Bolívar|El Peñón||0
+13300|Bolívar|Hatillo de Loba||0
+13430|Bolívar|Magangué||0
+13433|Bolívar|Mahates||0
+13440|Bolívar|Margarita||0
+13442|Bolívar|María La Baja|MONTES DE MARÍA|1
+13458|Bolívar|Montecristo||1
+13468|Bolívar|Mompós||0
+13473|Bolívar|Morales|SUR DE BOLÍVAR|1
+13490|Bolívar|Norosí||0
+13549|Bolívar|Pinillos||0
+13580|Bolívar|Regidor||0
+13600|Bolívar|Río Viejo||1
+13620|Bolívar|San Cristóbal||0
+13647|Bolívar|San Estanislao||0
+13650|Bolívar|San Fernando||0
+13654|Bolívar|San Jacinto|MONTES DE MARÍA|1
+13655|Bolívar|San Jacinto del Cauca||0
+13657|Bolívar|San Juan Nepomuceno|MONTES DE MARÍA|1
+13667|Bolívar|San Martín de Loba||0
+13670|Bolívar|San Pablo|SUR DE BOLÍVAR|1
+13673|Bolívar|Santa Catalina||0
+13683|Bolívar|Santa Rosa||0
+13688|Bolívar|Santa Rosa del Sur|SUR DE BOLÍVAR|1
+13744|Bolívar|Simití|SUR DE BOLÍVAR|1
+13760|Bolívar|Soplaviento||0
+13780|Bolívar|Talaigua Nuevo||0
+13810|Bolívar|Tiquisio||1
+13836|Bolívar|Turbaco||0
+13838|Bolívar|Turbaná||0
+13873|Bolívar|Villanueva||0
+13894|Bolívar|Zambrano|MONTES DE MARÍA|1
+15001|Boyacá|Tunja||0
+15022|Boyacá|Almeida||0
+15047|Boyacá|Aquitania||0
+15051|Boyacá|Arcabuco||0
+15087|Boyacá|Belén||0
+15090|Boyacá|Berbeo||0
+15092|Boyacá|Betéitiva||0
+15097|Boyacá|Boavita||0
+15104|Boyacá|Boyacá||0
+15106|Boyacá|Briceño||0
+15109|Boyacá|Buenavista||0
+15114|Boyacá|Busbanzá||0
+15131|Boyacá|Caldas||0
+15135|Boyacá|Campohermoso||0
+15162|Boyacá|Cerinza||0
+15172|Boyacá|Chinavita||0
+15176|Boyacá|Chiquinquirá||0
+15180|Boyacá|Chiscas||0
+15183|Boyacá|Chita||0
+15185|Boyacá|Chitaraque||0
+15187|Boyacá|Chivatá||0
+15189|Boyacá|Ciénega||0
+15204|Boyacá|Cómbita||0
+15212|Boyacá|Coper||0
+15215|Boyacá|Corrales||0
+15218|Boyacá|Covarachía||0
+15223|Boyacá|Cubará||0
+15224|Boyacá|Cucaita||0
+15226|Boyacá|Cuítiva||0
+15232|Boyacá|Chíquiza||0
+15236|Boyacá|Chivor||1
+15238|Boyacá|Duitama||0
+15244|Boyacá|El Cocuy||0
+15248|Boyacá|El Espino||0
+15272|Boyacá|Firavitoba||0
+15276|Boyacá|Floresta||0
+15293|Boyacá|Gachantivá||0
+15296|Boyacá|Gámeza||0
+15299|Boyacá|Garagoa||0
+15317|Boyacá|Guacamayas||0
+15322|Boyacá|Guateque||0
+15325|Boyacá|Guayatá||0
+15332|Boyacá|Güicán de La Sierra||0
+15362|Boyacá|Iza||0
+15367|Boyacá|Jenesano||0
+15368|Boyacá|Jericó||0
+15377|Boyacá|Labranzagrande||1
+15380|Boyacá|La Capilla||0
+15401|Boyacá|La Victoria||0
+15403|Boyacá|La Uvita||0
+15407|Boyacá|Villa de Leyva||0
+15425|Boyacá|Macanal||0
+15442|Boyacá|Maripí||0
+15455|Boyacá|Miraflores||0
+15464|Boyacá|Mongua||0
+15466|Boyacá|Monguí||0
+15469|Boyacá|Moniquirá||0
+15476|Boyacá|Motavita||0
+15480|Boyacá|Muzo||0
+15491|Boyacá|Nobsa||0
+15494|Boyacá|Nuevo Colón||0
+15500|Boyacá|Oicatá||0
+15507|Boyacá|Otanche||0
+15511|Boyacá|Pachavita||0
+15514|Boyacá|Páez||0
+15516|Boyacá|Paipa||0
+15518|Boyacá|Pajarito||1
+15522|Boyacá|Panqueba||0
+15531|Boyacá|Pauna||0
+15533|Boyacá|Paya||1
+15537|Boyacá|Paz de Río||0
+15542|Boyacá|Pesca||0
+15550|Boyacá|Pisba||1
+15572|Boyacá|Puerto Boyacá||0
+15580|Boyacá|Quípama||0
+15599|Boyacá|Ramiriquí||0
+15600|Boyacá|Ráquira||0
+15621|Boyacá|Rondón||0
+15632|Boyacá|Saboyá||0
+15638|Boyacá|Sáchica||0
+15646|Boyacá|Samacá||0
+15660|Boyacá|San Eduardo||0
+15664|Boyacá|San José de Pare||0
+15667|Boyacá|San Luis de Gaceno||0
+15673|Boyacá|San Mateo||0
+15676|Boyacá|San Miguel de Sema||0
+15681|Boyacá|San Pablo de Borbur||0
+15686|Boyacá|Santana||0
+15690|Boyacá|Santa María||0
+15693|Boyacá|Santa Rosa de Viterbo||0
+15696|Boyacá|Santa Sofía||0
+15720|Boyacá|Sativanorte||0
+15723|Boyacá|Sativasur||0
+15740|Boyacá|Siachoque||0
+15753|Boyacá|Soatá||0
+15755|Boyacá|Socotá||0
+15757|Boyacá|Socha||0
+15759|Boyacá|Sogamoso||0
+15761|Boyacá|Somondoco||0
+15762|Boyacá|Sora||0
+15763|Boyacá|Sotaquirá||0
+15764|Boyacá|Soracá||0
+15774|Boyacá|Susacón||0
+15776|Boyacá|Sutamarchán||0
+15778|Boyacá|Sutatenza||0
+15790|Boyacá|Tasco||0
+15798|Boyacá|Tenza||0
+15804|Boyacá|Tibaná||0
+15806|Boyacá|Tibasosa||0
+15808|Boyacá|Tinjacá||0
+15810|Boyacá|Tipacoque||0
+15814|Boyacá|Toca||0
+15816|Boyacá|Togüí||0
+15820|Boyacá|Tópaga||0
+15822|Boyacá|Tota||0
+15832|Boyacá|Tununguá||0
+15835|Boyacá|Turmequé||0
+15837|Boyacá|Tuta||0
+15839|Boyacá|Tutazá||0
+15842|Boyacá|Úmbita||0
+15861|Boyacá|Ventaquemada||0
+15879|Boyacá|Viracachá||0
+15897|Boyacá|Zetaquira||0
+17001|Caldas|Manizales||0
+17013|Caldas|Aguadas||0
+17042|Caldas|Anserma||1
+17050|Caldas|Aranzazu||0
+17088|Caldas|Belalcázar||1
+17174|Caldas|Chinchiná||0
+17272|Caldas|Filadelfia||0
+17380|Caldas|La Dorada||0
+17388|Caldas|La Merced||0
+17433|Caldas|Manzanares||0
+17442|Caldas|Marmato||0
+17444|Caldas|Marquetalia||0
+17446|Caldas|Marulanda||1
+17486|Caldas|Neira||0
+17495|Caldas|Norcasia||1
+17513|Caldas|Pácora||0
+17524|Caldas|Palestina||1
+17541|Caldas|Pensilvania||1
+17614|Caldas|Riosucio||1
+17616|Caldas|Risaralda||1
+17653|Caldas|Salamina||0
+17662|Caldas|Samaná||1
+17665|Caldas|San José||0
+17777|Caldas|Supía||0
+17867|Caldas|Victoria||0
+17873|Caldas|Villamaría||0
+17877|Caldas|Viterbo||0
+18001|Caquetá|Florencia|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18029|Caquetá|Albania|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18094|Caquetá|Belén de Los Andaquíes|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18150|Caquetá|Cartagena del Chairá|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18205|Caquetá|Curillo|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18247|Caquetá|El Doncello|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18256|Caquetá|El Paujíl|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18410|Caquetá|La Montañita|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18460|Caquetá|Milán|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18479|Caquetá|Morelia|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18592|Caquetá|Puerto Rico|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18610|Caquetá|San José del Fragua|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18753|Caquetá|San Vicente del Caguán|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18756|Caquetá|Solano|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18785|Caquetá|Solita|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+18860|Caquetá|Valparaíso|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+19001|Cauca|Popayán||0
+19022|Cauca|Almaguer||0
+19050|Cauca|Argelia|ALTO PATÍA Y NORTE DEL CAUCA|1
+19075|Cauca|Balboa|ALTO PATÍA Y NORTE DEL CAUCA|1
+19100|Cauca|Bolívar||0
+19110|Cauca|Buenos Aires|ALTO PATÍA Y NORTE DEL CAUCA|1
+19130|Cauca|Cajibío|ALTO PATÍA Y NORTE DEL CAUCA|1
+19137|Cauca|Caldono|ALTO PATÍA Y NORTE DEL CAUCA|1
+19142|Cauca|Caloto|ALTO PATÍA Y NORTE DEL CAUCA|1
+19212|Cauca|Corinto|ALTO PATÍA Y NORTE DEL CAUCA|1
+19256|Cauca|El Tambo|ALTO PATÍA Y NORTE DEL CAUCA|1
+19290|Cauca|Florencia||1
+19300|Cauca|Guachené||0
+19318|Cauca|Guapi|PACÍFICO MEDIO|1
+19355|Cauca|Inzá||0
+19364|Cauca|Jambaló|ALTO PATÍA Y NORTE DEL CAUCA|1
+19392|Cauca|La Sierra||0
+19397|Cauca|La Vega||0
+19418|Cauca|López de Micay|PACÍFICO MEDIO|1
+19450|Cauca|Mercaderes|ALTO PATÍA Y NORTE DEL CAUCA|1
+19455|Cauca|Miranda|ALTO PATÍA Y NORTE DEL CAUCA|1
+19473|Cauca|Morales|ALTO PATÍA Y NORTE DEL CAUCA|1
+19513|Cauca|Padilla||0
+19517|Cauca|Páez||0
+19532|Cauca|Patía|ALTO PATÍA Y NORTE DEL CAUCA|1
+19533|Cauca|Piamonte||1
+19548|Cauca|Piendamó - Tunía|ALTO PATÍA Y NORTE DEL CAUCA|1
+19573|Cauca|Puerto Tejada||0
+19585|Cauca|Puracé||0
+19622|Cauca|Rosas||0
+19693|Cauca|San Sebastián||0
+19698|Cauca|Santander de Quilichao|ALTO PATÍA Y NORTE DEL CAUCA|1
+19701|Cauca|Santa Rosa||1
+19743|Cauca|Silvia||0
+19760|Cauca|Sotará Paispamba||0
+19780|Cauca|Suárez|ALTO PATÍA Y NORTE DEL CAUCA|1
+19785|Cauca|Sucre||0
+19807|Cauca|Timbío||0
+19809|Cauca|Timbiquí|PACÍFICO MEDIO|1
+19821|Cauca|Toribío|ALTO PATÍA Y NORTE DEL CAUCA|1
+19824|Cauca|Totoró||0
+19845|Cauca|Villa Rica||0
+20001|Cesar|Valledupar|SIERRA NEVADA - PERIJÁ|0
+20011|Cesar|Aguachica||1
+20013|Cesar|Agustín Codazzi|SIERRA NEVADA - PERIJÁ|1
+20032|Cesar|Astrea||0
+20045|Cesar|Becerril|SIERRA NEVADA - PERIJÁ|1
+20060|Cesar|Bosconia||1
+20175|Cesar|Chimichagua||0
+20178|Cesar|Chiriguaná||1
+20228|Cesar|Curumaní||1
+20238|Cesar|El Copey||1
+20250|Cesar|El Paso||0
+20295|Cesar|Gamarra||0
+20310|Cesar|González||0
+20383|Cesar|La Gloria||1
+20400|Cesar|La Jagua de Ibirico|SIERRA NEVADA - PERIJÁ|1
+20443|Cesar|Manaure Balcón del Cesar|SIERRA NEVADA - PERIJÁ|1
+20517|Cesar|Pailitas||1
+20550|Cesar|Pelaya||1
+20570|Cesar|Pueblo Bello|SIERRA NEVADA - PERIJÁ|1
+20614|Cesar|Río de Oro||0
+20621|Cesar|La Paz|SIERRA NEVADA - PERIJÁ|1
+20710|Cesar|San Alberto||0
+20750|Cesar|San Diego|SIERRA NEVADA - PERIJÁ|1
+20770|Cesar|San Martín||0
+20787|Cesar|Tamalameque||0
+23001|Córdoba|Montería||0
+23068|Córdoba|Ayapel||0
+23079|Córdoba|Buenavista||0
+23090|Córdoba|Canalete||0
+23162|Córdoba|Cereté||0
+23168|Córdoba|Chimá||0
+23182|Córdoba|Chinú||0
+23189|Córdoba|Ciénaga de Oro||0
+23300|Córdoba|Cotorra||0
+23350|Córdoba|La Apartada||0
+23417|Córdoba|Lorica||0
+23419|Córdoba|Los Córdobas||0
+23464|Córdoba|Momil||0
+23466|Córdoba|Montelíbano|SUR DE CÓRDOBA|1
+23500|Córdoba|Moñitos||0
+23555|Córdoba|Planeta Rica||0
+23570|Córdoba|Pueblo Nuevo||0
+23574|Córdoba|Puerto Escondido||0
+23580|Córdoba|Puerto Libertador|SUR DE CÓRDOBA|1
+23586|Córdoba|Purísima de La Concepción||0
+23660|Córdoba|Sahagún||0
+23670|Córdoba|San Andrés Sotavento||0
+23672|Córdoba|San Antero||0
+23675|Córdoba|San Bernardo del Viento||0
+23678|Córdoba|San Carlos||0
+23682|Córdoba|San José de Uré|SUR DE CÓRDOBA|1
+23686|Córdoba|San Pelayo||0
+23807|Córdoba|Tierralta|SUR DE CÓRDOBA|1
+23815|Córdoba|Tuchín||0
+23855|Córdoba|Valencia|SUR DE CÓRDOBA|1
+25001|Cundinamarca|Agua de Dios||0
+25019|Cundinamarca|Albán||0
+25035|Cundinamarca|Anapoima||0
+25040|Cundinamarca|Anolaima||0
+25053|Cundinamarca|Arbeláez||0
+25086|Cundinamarca|Beltrán||0
+25095|Cundinamarca|Bituima||0
+25099|Cundinamarca|Bojacá||0
+25120|Cundinamarca|Cabrera||1
+25123|Cundinamarca|Cachipay||0
+25126|Cundinamarca|Cajicá||0
+25148|Cundinamarca|Caparrapí||0
+25151|Cundinamarca|Cáqueza||0
+25154|Cundinamarca|Carmen de Carupa||0
+25168|Cundinamarca|Chaguaní||1
+25175|Cundinamarca|Chía||0
+25178|Cundinamarca|Chipaque||0
+25181|Cundinamarca|Choachí||0
+25183|Cundinamarca|Chocontá||0
+25200|Cundinamarca|Cogua||0
+25214|Cundinamarca|Cota||0
+25224|Cundinamarca|Cucunubá||0
+25245|Cundinamarca|El Colegio||0
+25258|Cundinamarca|El Peñón||1
+25260|Cundinamarca|El Rosal||0
+25269|Cundinamarca|Facatativá||0
+25279|Cundinamarca|Fómeque||0
+25281|Cundinamarca|Fosca||0
+25286|Cundinamarca|Funza||0
+25288|Cundinamarca|Fúquene||0
+25290|Cundinamarca|Fusagasugá||0
+25293|Cundinamarca|Gachalá||0
+25295|Cundinamarca|Gachancipá||0
+25297|Cundinamarca|Gachetá||0
+25299|Cundinamarca|Gama||0
+25307|Cundinamarca|Girardot||0
+25312|Cundinamarca|Granada||0
+25317|Cundinamarca|Guachetá||0
+25320|Cundinamarca|Guaduas||0
+25322|Cundinamarca|Guasca||0
+25324|Cundinamarca|Guataquí||0
+25326|Cundinamarca|Guatavita||0
+25328|Cundinamarca|Guayabal de Síquima||1
+25335|Cundinamarca|Guayabetal||1
+25339|Cundinamarca|Gutiérrez||0
+25368|Cundinamarca|Jerusalén||0
+25372|Cundinamarca|Junín||0
+25377|Cundinamarca|La Calera||0
+25386|Cundinamarca|La Mesa||0
+25394|Cundinamarca|La Palma||1
+25398|Cundinamarca|La Peña||0
+25402|Cundinamarca|La Vega||0
+25407|Cundinamarca|Lenguazaque||0
+25426|Cundinamarca|Machetá||0
+25430|Cundinamarca|Madrid||0
+25436|Cundinamarca|Manta||0
+25438|Cundinamarca|Medina||1
+25473|Cundinamarca|Mosquera||0
+25483|Cundinamarca|Nariño||0
+25486|Cundinamarca|Nemocón||0
+25488|Cundinamarca|Nilo||0
+25489|Cundinamarca|Nimaima||0
+25491|Cundinamarca|Nocaima||0
+25506|Cundinamarca|Venecia||0
+25513|Cundinamarca|Pacho||0
+25518|Cundinamarca|Paime||0
+25524|Cundinamarca|Pandi||0
+25530|Cundinamarca|Paratebueno||1
+25535|Cundinamarca|Pasca||0
+25572|Cundinamarca|Puerto Salgar||0
+25580|Cundinamarca|Pulí||1
+25592|Cundinamarca|Quebradanegra||0
+25594|Cundinamarca|Quetame||0
+25596|Cundinamarca|Quipile||0
+25599|Cundinamarca|Apulo||0
+25612|Cundinamarca|Ricaurte||0
+25645|Cundinamarca|San Antonio del Tequendama||0
+25649|Cundinamarca|San Bernardo||0
+25653|Cundinamarca|San Cayetano||0
+25658|Cundinamarca|San Francisco||0
+25662|Cundinamarca|San Juan de Rioseco||0
+25718|Cundinamarca|Sasaima||0
+25736|Cundinamarca|Sesquilé||0
+25740|Cundinamarca|Sibaté||0
+25743|Cundinamarca|Silvania||1
+25745|Cundinamarca|Simijaca||0
+25754|Cundinamarca|Soacha||0
+25758|Cundinamarca|Sopó||0
+25769|Cundinamarca|Subachoque||0
+25772|Cundinamarca|Suesca||0
+25777|Cundinamarca|Supatá||0
+25779|Cundinamarca|Susa||0
+25781|Cundinamarca|Sutatausa||0
+25785|Cundinamarca|Tabio||0
+25793|Cundinamarca|Tausa||0
+25797|Cundinamarca|Tena||0
+25799|Cundinamarca|Tenjo||0
+25805|Cundinamarca|Tibacuy||0
+25807|Cundinamarca|Tibirita||0
+25815|Cundinamarca|Tocaima||0
+25817|Cundinamarca|Tocancipá||0
+25823|Cundinamarca|Topaipí||1
+25839|Cundinamarca|Ubalá||0
+25841|Cundinamarca|Ubaque||0
+25843|Cundinamarca|Villa de San Diego de Ubaté||0
+25845|Cundinamarca|Une||0
+25851|Cundinamarca|Útica||0
+25862|Cundinamarca|Vergara||0
+25867|Cundinamarca|Vianí||0
+25871|Cundinamarca|Villagómez||0
+25873|Cundinamarca|Villapinzón||0
+25875|Cundinamarca|Villeta||0
+25878|Cundinamarca|Viotá||1
+25885|Cundinamarca|Yacopí||0
+25898|Cundinamarca|Zipacón||0
+25899|Cundinamarca|Zipaquirá||0
+27001|Chocó|Quibdó||1
+27006|Chocó|Acandí|CHOCÓ|1
+27025|Chocó|Alto Baudó||0
+27050|Chocó|Atrato||0
+27073|Chocó|Bagadó||1
+27075|Chocó|Bahía Solano||0
+27077|Chocó|Bajo Baudó||1
+27099|Chocó|Bojayá|CHOCÓ|1
+27135|Chocó|El Cantón del San Pablo||0
+27150|Chocó|Carmen del Darién|CHOCÓ|1
+27160|Chocó|Cértegui||0
+27205|Chocó|Condoto|CHOCÓ|1
+27245|Chocó|El Carmen de Atrato||1
+27250|Chocó|El Litoral del San Juan|CHOCÓ|1
+27361|Chocó|Istmina|CHOCÓ|1
+27372|Chocó|Juradó||0
+27413|Chocó|Lloró||0
+27425|Chocó|Medio Atrato|CHOCÓ|1
+27430|Chocó|Medio Baudó||0
+27450|Chocó|Medio San Juan|CHOCÓ|1
+27491|Chocó|Nóvita|CHOCÓ|1
+27495|Chocó|Nuquí||0
+27580|Chocó|Río Iró||0
+27600|Chocó|Río Quito||0
+27615|Chocó|Riosucio|CHOCÓ|1
+27660|Chocó|San José del Palmar||1
+27745|Chocó|Sipí|CHOCÓ|1
+27787|Chocó|Tadó||1
+27800|Chocó|Unguía|CHOCÓ|1
+27810|Chocó|Unión Panamericana||0
+41001|Huila|Neiva||0
+41006|Huila|Acevedo||1
+41013|Huila|Agrado||0
+41016|Huila|Aipe||0
+41020|Huila|Algeciras|CUENCA DEL CAGUÁN Y PIEDEMONTE CAQUETEÑO|1
+41026|Huila|Altamira||0
+41078|Huila|Baraya||1
+41132|Huila|Campoalegre||0
+41206|Huila|Colombia||1
+41244|Huila|Elías||0
+41298|Huila|Garzón||0
+41306|Huila|Gigante||0
+41319|Huila|Guadalupe||0
+41349|Huila|Hobo||1
+41357|Huila|Íquira||0
+41359|Huila|Isnos||1
+41378|Huila|La Argentina||0
+41396|Huila|La Plata||0
+41483|Huila|Nátaga||0
+41503|Huila|Oporapa||0
+41518|Huila|Paicol||0
+41524|Huila|Palermo||0
+41530|Huila|Palestina||0
+41548|Huila|Pital||0
+41551|Huila|Pitalito||0
+41615|Huila|Rivera||0
+41660|Huila|Saladoblanco||0
+41668|Huila|San Agustín||0
+41676|Huila|Santa María||0
+41770|Huila|Suaza||0
+41791|Huila|Tarqui||0
+41797|Huila|Tesalia||0
+41799|Huila|Tello||1
+41801|Huila|Teruel||0
+41807|Huila|Timaná||0
+41872|Huila|Villavieja||0
+41885|Huila|Yaguará||0
+44001|La Guajira|Riohacha||1
+44035|La Guajira|Albania||0
+44078|La Guajira|Barrancas||0
+44090|La Guajira|Dibulla|SIERRA NEVADA - PERIJÁ|1
+44098|La Guajira|Distracción||0
+44110|La Guajira|El Molino||1
+44279|La Guajira|Fonseca|SIERRA NEVADA - PERIJÁ|1
+44378|La Guajira|Hatonuevo||0
+44420|La Guajira|La Jagua del Pilar||1
+44430|La Guajira|Maicao||1
+44560|La Guajira|Manaure||0
+44650|La Guajira|San Juan del Cesar|SIERRA NEVADA - PERIJÁ|1
+44847|La Guajira|Uribia||0
+44855|La Guajira|Urumita||1
+44874|La Guajira|Villanueva||1
+47001|Magdalena|Santa Marta|SIERRA NEVADA - PERIJÁ|0
+47030|Magdalena|Algarrobo||0
+47053|Magdalena|Aracataca|SIERRA NEVADA - PERIJÁ|1
+47058|Magdalena|Ariguaní||0
+47161|Magdalena|Cerro de San Antonio||0
+47170|Magdalena|Chibolo||0
+47189|Magdalena|Ciénaga|SIERRA NEVADA - PERIJÁ|0
+47205|Magdalena|Concordia||0
+47245|Magdalena|El Banco||0
+47258|Magdalena|El Piñón||0
+47268|Magdalena|El Retén||0
+47288|Magdalena|Fundación|SIERRA NEVADA - PERIJÁ|1
+47318|Magdalena|Guamal||0
+47460|Magdalena|Nueva Granada||0
+47541|Magdalena|Pedraza||0
+47545|Magdalena|Pijiño del Carmen||0
+47551|Magdalena|Pivijay||0
+47555|Magdalena|Plato||0
+47570|Magdalena|Puebloviejo||0
+47605|Magdalena|Remolino||0
+47660|Magdalena|Sabanas de San Ángel||0
+47675|Magdalena|Salamina||0
+47692|Magdalena|San Sebastián de Buenavista||0
+47703|Magdalena|San Zenón||0
+47707|Magdalena|Santa Ana||0
+47720|Magdalena|Santa Bárbara de Pinto||0
+47745|Magdalena|Sitionuevo||0
+47798|Magdalena|Tenerife||0
+47960|Magdalena|Zapayán||0
+47980|Magdalena|Zona Bananera||0
+50001|Meta|Villavicencio||0
+50006|Meta|Acacías||0
+50110|Meta|Barranca de Upía||1
+50124|Meta|Cabuyaro||0
+50150|Meta|Castilla la Nueva||0
+50223|Meta|Cubarral||1
+50226|Meta|Cumaral||0
+50245|Meta|El Calvario||1
+50251|Meta|El Castillo||1
+50270|Meta|El Dorado||1
+50287|Meta|Fuente de Oro||1
+50313|Meta|Granada||1
+50318|Meta|Guamal||0
+50325|Meta|Mapiripán|MACARENA - GUAVIARE|1
+50330|Meta|Mesetas|MACARENA - GUAVIARE|1
+50350|Meta|La Macarena|MACARENA - GUAVIARE|1
+50370|Meta|Uribe|MACARENA - GUAVIARE|1
+50400|Meta|Lejanías||1
+50450|Meta|Puerto Concordia|MACARENA - GUAVIARE|1
+50568|Meta|Puerto Gaitán||1
+50573|Meta|Puerto López||0
+50577|Meta|Puerto Lleras|MACARENA - GUAVIARE|1
+50590|Meta|Puerto Rico|MACARENA - GUAVIARE|1
+50606|Meta|Restrepo||0
+50680|Meta|San Carlos de Guaroa||0
+50683|Meta|San Juan de Arama||1
+50686|Meta|San Juanito||1
+50689|Meta|San Martín||1
+50711|Meta|Vistahermosa|MACARENA - GUAVIARE|1
+52001|Nariño|Pasto||0
+52019|Nariño|Albán||0
+52022|Nariño|Aldana||0
+52036|Nariño|Ancuya||0
+52051|Nariño|Arboleda||0
+52079|Nariño|Barbacoas|PACÍFICO Y FRONTERA NARIÑENSE|1
+52083|Nariño|Belén||0
+52110|Nariño|Buesaco||0
+52203|Nariño|Colón||0
+52207|Nariño|Consacá||0
+52210|Nariño|Contadero||0
+52215|Nariño|Córdoba||0
+52224|Nariño|Cuaspud Carlosama||0
+52227|Nariño|Cumbal||0
+52233|Nariño|Cumbitara|ALTO PATÍA Y NORTE DEL CAUCA|1
+52240|Nariño|Chachagüí||0
+52250|Nariño|El Charco|PACÍFICO Y FRONTERA NARIÑENSE|1
+52254|Nariño|El Peñol||1
+52256|Nariño|El Rosario|ALTO PATÍA Y NORTE DEL CAUCA|1
+52258|Nariño|El Tablón de Gómez||0
+52260|Nariño|El Tambo||0
+52287|Nariño|Funes||0
+52317|Nariño|Guachucal||0
+52320|Nariño|Guaitarilla||0
+52323|Nariño|Gualmatán||0
+52352|Nariño|Iles||0
+52354|Nariño|Imués||0
+52356|Nariño|Ipiales||1
+52378|Nariño|La Cruz||0
+52381|Nariño|La Florida||0
+52385|Nariño|La Llanada||1
+52390|Nariño|La Tola|PACÍFICO Y FRONTERA NARIÑENSE|1
+52399|Nariño|La Unión||0
+52405|Nariño|Leiva|ALTO PATÍA Y NORTE DEL CAUCA|1
+52411|Nariño|Linares||1
+52418|Nariño|Los Andes|ALTO PATÍA Y NORTE DEL CAUCA|1
+52427|Nariño|Magüí|PACÍFICO Y FRONTERA NARIÑENSE|1
+52435|Nariño|Mallama||1
+52473|Nariño|Mosquera|PACÍFICO Y FRONTERA NARIÑENSE|1
+52480|Nariño|Nariño||0
+52490|Nariño|Olaya Herrera|PACÍFICO Y FRONTERA NARIÑENSE|1
+52506|Nariño|Ospina||0
+52520|Nariño|Francisco Pizarro|PACÍFICO Y FRONTERA NARIÑENSE|1
+52540|Nariño|Policarpa|ALTO PATÍA Y NORTE DEL CAUCA|1
+52560|Nariño|Potosí||0
+52565|Nariño|Providencia||0
+52573|Nariño|Puerres||1
+52585|Nariño|Pupiales||0
+52612|Nariño|Ricaurte|PACÍFICO Y FRONTERA NARIÑENSE|1
+52621|Nariño|Roberto Payán|PACÍFICO Y FRONTERA NARIÑENSE|1
+52678|Nariño|Samaniego||1
+52683|Nariño|Sandoná||0
+52685|Nariño|San Bernardo||0
+52687|Nariño|San Lorenzo||0
+52693|Nariño|San Pablo||0
+52694|Nariño|San Pedro de Cartago||0
+52696|Nariño|Santa Bárbara|PACÍFICO Y FRONTERA NARIÑENSE|1
+52699|Nariño|Santacruz||0
+52720|Nariño|Sapuyes||0
+52786|Nariño|Taminango||0
+52788|Nariño|Tangua||0
+52835|Nariño|San Andrés de Tumaco|PACÍFICO Y FRONTERA NARIÑENSE|1
+52838|Nariño|Túquerres||0
+52885|Nariño|Yacuanquer||0
+54001|Norte de Santander|San José de Cúcuta||0
+54003|Norte de Santander|Ábrego||0
+54051|Norte de Santander|Arboledas||0
+54099|Norte de Santander|Bochalema||0
+54109|Norte de Santander|Bucarasica||1
+54125|Norte de Santander|Cácota||0
+54128|Norte de Santander|Cáchira||0
+54172|Norte de Santander|Chinácota||0
+54174|Norte de Santander|Chitagá||0
+54206|Norte de Santander|Convención|CATATUMBO|1
+54223|Norte de Santander|Cucutilla||0
+54239|Norte de Santander|Durania||0
+54245|Norte de Santander|El Carmen|CATATUMBO|1
+54250|Norte de Santander|El Tarra|CATATUMBO|1
+54261|Norte de Santander|El Zulia||1
+54313|Norte de Santander|Gramalote||0
+54344|Norte de Santander|Hacarí|CATATUMBO|1
+54347|Norte de Santander|Herrán||0
+54377|Norte de Santander|Labateca||0
+54385|Norte de Santander|La Esperanza||0
+54398|Norte de Santander|La Playa||1
+54405|Norte de Santander|Los Patios||0
+54418|Norte de Santander|Lourdes||0
+54480|Norte de Santander|Mutiscua||0
+54498|Norte de Santander|Ocaña||0
+54518|Norte de Santander|Pamplona||0
+54520|Norte de Santander|Pamplonita||0
+54553|Norte de Santander|Puerto Santander||0
+54599|Norte de Santander|Ragonvalia||0
+54660|Norte de Santander|Salazar||0
+54670|Norte de Santander|San Calixto|CATATUMBO|1
+54673|Norte de Santander|San Cayetano||0
+54680|Norte de Santander|Santiago||1
+54720|Norte de Santander|Sardinata|CATATUMBO|1
+54743|Norte de Santander|Silos||0
+54800|Norte de Santander|Teorama|CATATUMBO|1
+54810|Norte de Santander|Tibú|CATATUMBO|1
+54820|Norte de Santander|Toledo||0
+54871|Norte de Santander|Villa Caro||0
+54874|Norte de Santander|Villa del Rosario||0
+63001|Quindio|Armenia||0
+63111|Quindio|Buenavista||0
+63130|Quindio|Calarcá||0
+63190|Quindio|Circasia||0
+63212|Quindio|Córdoba||0
+63272|Quindio|Filandia||0
+63302|Quindio|Génova||1
+63401|Quindio|La Tebaida||0
+63470|Quindio|Montenegro||0
+63548|Quindio|Pijao||1
+63594|Quindio|Quimbaya||0
+63690|Quindio|Salento||1
+66001|Risaralda|Pereira||0
+66045|Risaralda|Apía||0
+66075|Risaralda|Balboa||1
+66088|Risaralda|Belén de Umbría||0
+66170|Risaralda|Dosquebradas||0
+66318|Risaralda|Guática||0
+66383|Risaralda|La Celia||0
+66400|Risaralda|La Virginia||0
+66440|Risaralda|Marsella||0
+66456|Risaralda|Mistrató||1
+66572|Risaralda|Pueblo Rico||1
+66594|Risaralda|Quinchía||1
+66682|Risaralda|Santa Rosa de Cabal||0
+66687|Risaralda|Santuario||0
+68001|Santander|Bucaramanga||0
+68013|Santander|Aguada||0
+68020|Santander|Albania||0
+68051|Santander|Aratoca||0
+68077|Santander|Barbosa||0
+68079|Santander|Barichara||0
+68081|Santander|Barrancabermeja||0
+68092|Santander|Betulia||0
+68101|Santander|Bolívar||1
+68121|Santander|Cabrera||0
+68132|Santander|California||0
+68147|Santander|Capitanejo||0
+68152|Santander|Carcasí||0
+68160|Santander|Cepitá||0
+68162|Santander|Cerrito||0
+68167|Santander|Charalá||0
+68169|Santander|Charta||1
+68176|Santander|Chimá||0
+68179|Santander|Chipatá||0
+68190|Santander|Cimitarra||0
+68207|Santander|Concepción||0
+68209|Santander|Confines||0
+68211|Santander|Contratación||0
+68217|Santander|Coromoro||0
+68229|Santander|Curití||0
+68235|Santander|El Carmen de Chucurí||0
+68245|Santander|El Guacamayo||0
+68250|Santander|El Peñón||0
+68255|Santander|El Playón||1
+68264|Santander|Encino||0
+68266|Santander|Enciso||0
+68271|Santander|Florián||0
+68276|Santander|Floridablanca||0
+68296|Santander|Galán||0
+68298|Santander|Gámbita||0
+68307|Santander|Girón||0
+68318|Santander|Guaca||0
+68320|Santander|Guadalupe||0
+68322|Santander|Guapotá||0
+68324|Santander|Guavatá||0
+68327|Santander|Güepsa||0
+68344|Santander|Hato||0
+68368|Santander|Jesús María||0
+68370|Santander|Jordán||0
+68377|Santander|La Belleza||1
+68385|Santander|Landázuri||1
+68397|Santander|La Paz||0
+68406|Santander|Lebrija||0
+68418|Santander|Los Santos||0
+68425|Santander|Macaravita||0
+68432|Santander|Málaga||0
+68444|Santander|Matanza||1
+68464|Santander|Mogotes||0
+68468|Santander|Molagavita||0
+68498|Santander|Ocamonte||0
+68500|Santander|Oiba||0
+68502|Santander|Onzaga||0
+68522|Santander|Palmar||0
+68524|Santander|Palmas del Socorro||0
+68533|Santander|Páramo||0
+68547|Santander|Piedecuesta||0
+68549|Santander|Pinchote||0
+68572|Santander|Puente Nacional||0
+68573|Santander|Puerto Parra||0
+68575|Santander|Puerto Wilches||0
+68615|Santander|Rionegro||1
+68655|Santander|Sabana de Torres||1
+68669|Santander|San Andrés||0
+68673|Santander|San Benito||0
+68679|Santander|San Gil||0
+68682|Santander|San Joaquín||0
+68684|Santander|San José de Miranda||0
+68686|Santander|San Miguel||0
+68689|Santander|San Vicente de Chucurí||0
+68705|Santander|Santa Bárbara||0
+68720|Santander|Santa Helena del Opón||0
+68745|Santander|Simacota||0
+68755|Santander|Socorro||0
+68770|Santander|Suaita||0
+68773|Santander|Sucre||1
+68780|Santander|Suratá||1
+68820|Santander|Tona||0
+68855|Santander|Valle de San José||0
+68861|Santander|Vélez||0
+68867|Santander|Vetas||0
+68872|Santander|Villanueva||0
+68895|Santander|Zapatoca||0
+70001|Sucre|Sincelejo||0
+70110|Sucre|Buenavista||0
+70124|Sucre|Caimito||0
+70204|Sucre|Coloso|MONTES DE MARÍA|1
+70215|Sucre|Corozal||0
+70221|Sucre|Coveñas||0
+70230|Sucre|Chalán|MONTES DE MARÍA|1
+70233|Sucre|El Roble||0
+70235|Sucre|Galeras||0
+70265|Sucre|Guaranda||0
+70400|Sucre|La Unión||0
+70418|Sucre|Los Palmitos|MONTES DE MARÍA|1
+70429|Sucre|Majagual||0
+70473|Sucre|Morroa|MONTES DE MARÍA|1
+70508|Sucre|Ovejas|MONTES DE MARÍA|1
+70523|Sucre|Palmito|MONTES DE MARÍA|1
+70670|Sucre|Sampués||0
+70678|Sucre|San Benito Abad||0
+70702|Sucre|San Juan de Betulia||0
+70708|Sucre|San Marcos||0
+70713|Sucre|San Onofre|MONTES DE MARÍA|1
+70717|Sucre|San Pedro||0
+70742|Sucre|San Luis de Sincé||0
+70771|Sucre|Sucre||0
+70820|Sucre|Santiago de Tolú||0
+70823|Sucre|Tolú Viejo|MONTES DE MARÍA|1
+73001|Tolima|Ibagué||0
+73024|Tolima|Alpujarra||0
+73026|Tolima|Alvarado||1
+73030|Tolima|Ambalema||0
+73043|Tolima|Anzoátegui||1
+73055|Tolima|Armero||0
+73067|Tolima|Ataco|SUR DEL TOLIMA|1
+73124|Tolima|Cajamarca||1
+73148|Tolima|Carmen de Apicalá||0
+73152|Tolima|Casabianca||1
+73168|Tolima|Chaparral|SUR DEL TOLIMA|1
+73200|Tolima|Coello||0
+73217|Tolima|Coyaima||0
+73226|Tolima|Cunday||0
+73236|Tolima|Dolores||1
+73268|Tolima|Espinal||0
+73270|Tolima|Falan||0
+73275|Tolima|Flandes||0
+73283|Tolima|Fresno||0
+73319|Tolima|Guamo||0
+73347|Tolima|Herveo||1
+73349|Tolima|Honda||0
+73352|Tolima|Icononzo||0
+73408|Tolima|Lérida||1
+73411|Tolima|Líbano||0
+73443|Tolima|Mariquita||0
+73449|Tolima|Melgar||0
+73461|Tolima|Murillo||1
+73483|Tolima|Natagaima||0
+73504|Tolima|Ortega||1
+73520|Tolima|Palocabildo||0
+73547|Tolima|Piedras||0
+73555|Tolima|Planadas|SUR DEL TOLIMA|1
+73563|Tolima|Prado||1
+73585|Tolima|Purificación||0
+73616|Tolima|Rioblanco|SUR DEL TOLIMA|1
+73622|Tolima|Roncesvalles||1
+73624|Tolima|Rovira||1
+73671|Tolima|Saldaña||0
+73675|Tolima|San Antonio||1
+73678|Tolima|San Luis||0
+73686|Tolima|Santa Isabel||1
+73770|Tolima|Suárez||0
+73854|Tolima|Valle de San Juan||0
+73861|Tolima|Venadillo||1
+73870|Tolima|Villahermosa||1
+73873|Tolima|Villarrica||1
+76001|Valle del Cauca|Cali||0
+76020|Valle del Cauca|Alcalá||0
+76036|Valle del Cauca|Andalucía||0
+76041|Valle del Cauca|Ansermanuevo||1
+76054|Valle del Cauca|Argelia||1
+76100|Valle del Cauca|Bolívar||1
+76109|Valle del Cauca|Buenaventura|PACÍFICO MEDIO|1
+76111|Valle del Cauca|Guadalajara de Buga||0
+76113|Valle del Cauca|Bugalagrande||0
+76122|Valle del Cauca|Caicedonia||1
+76126|Valle del Cauca|Calima||1
+76130|Valle del Cauca|Candelaria||0
+76147|Valle del Cauca|Cartago||0
+76233|Valle del Cauca|Dagua||1
+76243|Valle del Cauca|El Águila||1
+76246|Valle del Cauca|El Cairo||1
+76248|Valle del Cauca|El Cerrito||0
+76250|Valle del Cauca|El Dovio||1
+76275|Valle del Cauca|Florida|ALTO PATÍA Y NORTE DEL CAUCA|1
+76306|Valle del Cauca|Ginebra||0
+76318|Valle del Cauca|Guacarí||0
+76364|Valle del Cauca|Jamundí||0
+76377|Valle del Cauca|La Cumbre||0
+76400|Valle del Cauca|La Unión||0
+76403|Valle del Cauca|La Victoria||0
+76497|Valle del Cauca|Obando||0
+76520|Valle del Cauca|Palmira||0
+76563|Valle del Cauca|Pradera|ALTO PATÍA Y NORTE DEL CAUCA|1
+76606|Valle del Cauca|Restrepo||0
+76616|Valle del Cauca|Riofrío||1
+76622|Valle del Cauca|Roldanillo||1
+76670|Valle del Cauca|San Pedro||0
+76736|Valle del Cauca|Sevilla||0
+76823|Valle del Cauca|Toro||0
+76828|Valle del Cauca|Trujillo||0
+76834|Valle del Cauca|Tuluá||0
+76845|Valle del Cauca|Ulloa||0
+76863|Valle del Cauca|Versalles||0
+76869|Valle del Cauca|Vijes||0
+76890|Valle del Cauca|Yotoco||1
+76892|Valle del Cauca|Yumbo||0
+76895|Valle del Cauca|Zarzal||0
+81001|Arauca|Arauca||1
+81065|Arauca|Arauquita|ARAUCA|1
+81220|Arauca|Cravo Norte||1
+81300|Arauca|Fortul|ARAUCA|1
+81591|Arauca|Puerto Rondón||1
+81736|Arauca|Saravena|ARAUCA|1
+81794|Arauca|Tame|ARAUCA|1
+85001|Casanare|Yopal||0
+85010|Casanare|Aguazul||1
+85015|Casanare|Chámeza||1
+85125|Casanare|Hato Corozal||1
+85136|Casanare|La Salina||1
+85139|Casanare|Maní||1
+85162|Casanare|Monterrey||1
+85225|Casanare|Nunchía||0
+85230|Casanare|Orocué||0
+85250|Casanare|Paz de Ariporo||1
+85263|Casanare|Pore||1
+85279|Casanare|Recetor||1
+85300|Casanare|Sabanalarga||1
+85315|Casanare|Sácama||1
+85325|Casanare|San Luis de Palenque||0
+85400|Casanare|Támara||1
+85410|Casanare|Tauramena||1
+85430|Casanare|Trinidad||0
+85440|Casanare|Villanueva||1
+86001|Putumayo|Mocoa|PUTUMAYO|1
+86219|Putumayo|Colón||0
+86320|Putumayo|Orito|PUTUMAYO|1
+86568|Putumayo|Puerto Asís|PUTUMAYO|1
+86569|Putumayo|Puerto Caicedo|PUTUMAYO|1
+86571|Putumayo|Puerto Guzmán|PUTUMAYO|1
+86573|Putumayo|Puerto Leguízamo|PUTUMAYO|1
+86749|Putumayo|Sibundoy||0
+86755|Putumayo|San Francisco||0
+86757|Putumayo|San Miguel|PUTUMAYO|1
+86760|Putumayo|Santiago||0
+86865|Putumayo|Valle del Guamuez|PUTUMAYO|1
+86885|Putumayo|Villagarzón|PUTUMAYO|1
+88001|Archipiélago de San Andrés|San Andrés||0
+88564|Archipiélago de San Andrés|Providencia||0
+91001|Amazonas|Leticia||0
+91263|Amazonas|El Encanto (ANM)||0
+91405|Amazonas|La Chorrera (ANM)||0
+91407|Amazonas|La Pedrera (ANM)||0
+91430|Amazonas|La Victoria (ANM)||0
+91460|Amazonas|Miriti - Paraná (ANM)||0
+91530|Amazonas|Puerto Alegría (ANM)||0
+91536|Amazonas|Puerto Arica (ANM)||0
+91540|Amazonas|Puerto Nariño||0
+91669|Amazonas|Puerto Santander (ANM)||0
+91798|Amazonas|Tarapacá (ANM)||0
+94001|Guainía|Inírida||0
+94343|Guainía|Barrancominas*||0
+94663|Guainía|Mapiripana (ANM)||0
+94883|Guainía|San Felipe (ANM)||0
+94884|Guainía|Puerto Colombia (ANM)||0
+94885|Guainía|La Guadalupe (ANM)||0
+94886|Guainía|Cacahual (ANM)||0
+94887|Guainía|Pana Pana (ANM)||0
+94888|Guainía|Morichal (ANM)||0
+95001|Guaviare|San José del Guaviare|MACARENA - GUAVIARE|1
+95015|Guaviare|Calamar|MACARENA - GUAVIARE|1
+95025|Guaviare|El Retorno|MACARENA - GUAVIARE|1
+95200|Guaviare|Miraflores|MACARENA - GUAVIARE|1
+97001|Vaupés|Mitú||0
+97161|Vaupés|Carurú||1
+97511|Vaupés|Pacoa (ANM)||0
+97666|Vaupés|Taraira||0
+97777|Vaupés|Papunahua (ANM)||0
+97889|Vaupés|Yavaraté (ANM)||0
+99001|Vichada|Puerto Carreño||0
+99524|Vichada|La Primavera||0
+99624|Vichada|Santa Rosalía||0
+99773|Vichada|Cumaribo||1
