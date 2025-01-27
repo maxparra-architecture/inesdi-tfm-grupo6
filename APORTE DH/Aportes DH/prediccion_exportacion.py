@@ -1,45 +1,69 @@
-
 import pandas as pd
 import joblib
-from sklearn.ensemble import RandomForestClassifier
+
+# Ruta al modelo y al archivo de datos
+modelo_path = 'modelo_exportacion.pkl'  # Reemplaza con la ubicación correcta
+datos_path = 'municipios_potencial_exportacion.csv'  # Reemplaza con la ubicación correcta
 
 # Cargar el modelo entrenado
-model = joblib.load('/mnt/data/modelo_exportacion.pkl')
+print("Cargando el modelo...")
+modelo = joblib.load(modelo_path)
 
-# Función para predecir potencial de exportación
-def predecir_potencial(datos_nuevos):
-    # Convertir a DataFrame si los datos no lo son
-    if not isinstance(datos_nuevos, pd.DataFrame):
-        datos_nuevos = pd.DataFrame(datos_nuevos)
-    
-    # Asegurar que los datos tienen las columnas necesarias
-    required_columns = [
-        'LATITUD', 'LONGITUD', 'Producción (t)', 'Crecimiento 2022',
-        '% Act. primarias municipio', '% Act. secundarias municipio', 
-        '% Act. terciarias municipio', '% pobl. con pregrado municipio', 
-        'Valor agregado 2022', 'Peso relativo municipal en el valor agregado departamental (%)'
-    ]
-    if not all(col in datos_nuevos.columns for col in required_columns):
-        raise ValueError(f"Los datos deben contener las siguientes columnas: {required_columns}")
+# Definir las columnas necesarias para el modelo
+required_columns = [
+    'LATITUD', 'LONGITUD', 'Producción (t)', 'Crecimiento 2022',
+    '% Act. primarias municipio', '% Act. secundarias municipio',
+    '% Act. terciarias municipio', '% pobl. con pregrado municipio',
+    'Valor agregado 2022', 'Peso relativo municipal en el valor agregado departamental (%)'
+]
 
-    # Predecir
-    predicciones = model.predict(datos_nuevos[required_columns])
-    return predicciones
+# Cargar los datos
+print("Cargando los datos...")
+datos = pd.read_csv(datos_path)
 
-# Ejemplo de uso
-if __name__ == "__main__":
-    # Datos de ejemplo
-    datos_ejemplo = {
-        'LATITUD': [6.25],
-        'LONGITUD': [-75.56],
-        'Producción (t)': [5000],
-        'Crecimiento 2022': [10],
-        '% Act. primarias municipio': [30],
-        '% Act. secundarias municipio': [20],
-        '% Act. terciarias municipio': [50],
-        '% pobl. con pregrado municipio': [25],
-        'Valor agregado 2022': [10000],
-        'Peso relativo municipal en el valor agregado departamental (%)': [15]
-    }
-    datos_df = pd.DataFrame(datos_ejemplo)
-    print(predecir_potencial(datos_df))
+# Corregir formatos (reemplazar comas por puntos y convertir a float)
+print("Corrigiendo formatos de los datos...")
+for column in required_columns:
+    if column in datos.columns:  # Verificar si la columna está presente en los datos
+        if datos[column].dtype == 'object':  # Si la columna es texto
+            datos[column] = datos[column].str.replace(',', '.').astype(float, errors='ignore')
+
+
+# Validar que las columnas necesarias están presentes
+missing_columns = [col for col in required_columns if col not in datos.columns]
+if missing_columns:
+    raise ValueError(f"Faltan las siguientes columnas en los datos: {missing_columns}")
+
+# Calcular las columnas faltantes basadas en las transformaciones del entrenamiento
+# Reconstruir columnas faltantes
+datos['Primaria Dominante'] = (datos['% Act. primarias municipio'] > datos['% Act. secundarias municipio']) & \
+                              (datos['% Act. primarias municipio'] > datos['% Act. terciarias municipio'])
+
+datos['Secundaria Dominante'] = (datos['% Act. secundarias municipio'] > datos['% Act. primarias municipio']) & \
+                                (datos['% Act. secundarias municipio'] > datos['% Act. terciarias municipio'])
+
+datos['Terciaria Dominante'] = (datos['% Act. terciarias municipio'] > datos['% Act. primarias municipio']) & \
+                               (datos['% Act. terciarias municipio'] > datos['% Act. secundarias municipio'])
+
+datos['Indice Competitividad'] = (
+    datos['% pobl. con pregrado municipio'] * 0.5 +
+    datos['Valor agregado 2022'] * 0.3 +
+    datos['Peso relativo municipal en el valor agregado departamental (%)'] * 0.2
+)
+
+
+
+
+# Realizar las predicciones
+print("Realizando las predicciones...")
+datos['Potencial de exportación'] = modelo.predict(datos[required_columns])
+
+# Filtrar los municipios y productos con potencial de exportación
+municipios_potenciales = datos[datos['Potencial de exportación'] == 1]
+
+# Guardar los resultados en un archivo CSV
+output_path = 'prediciones_modelo_abel.csv'
+municipios_potenciales.to_csv(output_path, index=False)
+
+print(f"Predicciones completadas. Los resultados se han guardado en: {output_path}")
+

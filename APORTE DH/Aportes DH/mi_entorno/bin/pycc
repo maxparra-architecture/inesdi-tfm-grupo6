@@ -1,0 +1,3 @@
+#!/Users/dhatuneicloud.com/Library/CloudStorage/GoogleDrive-dhatun@diegohatun.com/Mi unidad/MASTER IA/TFM -DH/repo/inesdi-tfm-grupo6/APORTE DH/Aportes DH/mi_entorno/bin/python3.10
+from numba.pycc import main
+main()

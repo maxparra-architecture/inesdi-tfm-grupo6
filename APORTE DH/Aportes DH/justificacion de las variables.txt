@@ -1,0 +1,45 @@
+1. LATITUD y LONGITUD
+Función en el modelo:
+Identificar la ubicación geográfica: Estas variables permiten conocer dónde se encuentra cada municipio en términos espaciales.
+Relación con el acceso a infraestructura: La ubicación puede correlacionarse con la proximidad a puertos, centros logísticos y mercados clave.
+Análisis geoespacial: Los modelos pueden capturar patrones relacionados con regiones específicas que tienen mayor o menor probabilidad de exportar debido a factores regionales.
+Ejemplo:
+Un municipio cerca de un puerto puede tener costos de transporte más bajos, lo que aumenta su potencial de exportación.
+
+2. % Act. Primarias, Secundarias y Terciarias en el Municipio
+Función en el modelo:
+Describir la economía local:
+Actividades primarias: Representan agricultura, pesca y minería. Municipios con alto porcentaje en este rubro pueden tener mayor capacidad productiva para exportar materias primas.
+Actividades secundarias: Industria y manufactura. Municipios con un peso significativo aquí pueden procesar productos para exportación.
+Actividades terciarias: Comercio y servicios. Reflejan el desarrollo del sector de servicios, lo que puede apoyar la exportación mediante logística y comercio.
+Ejemplo:
+Un municipio con 60% de actividades primarias y un 20% de actividades secundarias puede ser más competitivo en exportación de materias primas, mientras que un municipio con una alta proporción de actividades secundarias puede exportar productos manufacturados.
+
+3. % Población con Pregrado
+Función en el modelo:
+Indicador del capital humano:
+Municipios con una mayor proporción de población educada tienden a tener mejor capacidad para implementar procesos de producción complejos, cumplir estándares internacionales y gestionar exportaciones.
+Relación con innovación: Poblaciones más educadas pueden facilitar la diversificación de productos y aumentar la competitividad en mercados internacionales.
+Ejemplo:
+Un municipio con el 50% de su población con educación de pregrado puede ser más eficiente en la adopción de certificaciones internacionales o en la mejora de procesos productivos.
+
+4. Valor Agregado 2022
+Función en el modelo:
+Medir la riqueza generada: El valor agregado representa la contribución económica del municipio a la economía nacional o regional.
+Indicador de competitividad: Municipios con alto valor agregado suelen tener mejores recursos económicos, infraestructura y capacidad de inversión.
+Ejemplo:
+Un municipio con un valor agregado de $50 millones en 2022 puede ser más competitivo para exportación debido a su fortaleza económica.
+
+5. Peso Relativo Municipal en el Valor Agregado Departamental (%)
+Función en el modelo:
+Importancia regional: Este indicador muestra qué tan relevante es el municipio dentro de su departamento.
+Capacidad de influir en la economía local: Municipios con un peso relativo alto tienden a ser centros económicos regionales con mayor acceso a infraestructura y recursos.
+Ejemplo:
+Si un municipio representa el 30% del valor agregado de su departamento, es probable que tenga una infraestructura más desarrollada y una economía más dinámica que otros municipios de la región.
+
+En Conjunto:
+Estas variables ayudan al modelo a:
+
+Capturar patrones estructurales: Describen características económicas, educativas y geográficas del municipio.
+Determinar ventajas competitivas: Identifican municipios con fortalezas específicas para exportación.
+Aumentar la precisión: Permiten al modelo aprender relaciones complejas entre factores geográficos, socioeconómicos y de exportación.

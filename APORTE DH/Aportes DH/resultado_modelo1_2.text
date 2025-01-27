@@ -1,0 +1,61 @@
+Interpretación de los Resultados
+Los resultados que compartes reflejan el desempeño del modelo basado en tres métricas principales: precisión (precision), recall y f1-score. Aquí está el desglose:
+
+1. Precisión del Modelo (accuracy)
+Precisión del modelo: 1.0 (100%):
+Esto indica que todas las predicciones realizadas por el modelo fueron correctas, tanto para la clase 0 como para la clase 1.
+Es poco común lograr una precisión perfecta en problemas reales. Puede deberse a un modelo muy bien entrenado, pero también podría ser un indicador de sobreajuste (ver más abajo).
+2. Reporte de Clasificación
+El reporte está desglosado por cada clase (0 y 1), con métricas específicas:
+
+Métricas por Clase
+Clase 0 (sin potencial de exportación):
+
+precision: 1.00 (100%):
+Todas las predicciones para la clase 0 fueron correctas.
+recall: 1.00 (100%):
+Todos los datos reales de la clase 0 fueron correctamente identificados.
+f1-score: 1.00:
+Combina precisión y recall, siendo perfecta debido a los valores individuales.
+Clase 1 (con potencial de exportación):
+
+precision: 1.00 (100%):
+Todas las predicciones para la clase 1 fueron correctas.
+recall: 1.00 (100%):
+Todos los datos reales de la clase 1 fueron correctamente identificados.
+f1-score: 1.00:
+Indica un equilibrio perfecto entre precisión y recall.
+3. Métricas Generales
+accuracy:
+
+Precisión global del modelo (1.00 o 100%).
+Calculada como: 
+accuracy
+=
+n
+u
+ˊ
+mero de predicciones correctas
+n
+u
+ˊ
+mero total de ejemplos
+accuracy= 
+n 
+u
+ˊ
+ mero total de ejemplos
+n 
+u
+ˊ
+ mero de predicciones correctas
+​
+ .
+macro avg:
+
+Media aritmética de las métricas para cada clase.
+Aquí es 1.00 porque ambas clases tienen métricas perfectas.
+weighted avg:
+
+Media ponderada según el número de muestras en cada clase.
+También es 1.00 debido a las métricas perfectas.
